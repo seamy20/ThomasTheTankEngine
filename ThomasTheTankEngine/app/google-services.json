@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581150967496",
+    "firebase_url": "https://thomas-656d9.firebaseio.com",
+    "project_id": "thomas-656d9",
+    "storage_bucket": "thomas-656d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581150967496:android:f09f4e365e9c862a",
+        "android_client_info": {
+          "package_name": "com.example.seamus.thomasthetankengine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581150967496-dofktp3gipqu7jp6m1ki62kaj718qlc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbvThYkIkFGHdRf828y7b7MUFVYVQaPAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
